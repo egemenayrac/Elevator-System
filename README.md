@@ -1,6 +1,3 @@
-Overview
-Programming Language: C++
-Main Features:
 Time-Based Passenger Frequency Model: Simulates passenger arrival rates with peak hours in the morning and evening.
 Passenger Class: Represents passengers with origin, destination, and state (waiting, in elevator, delivered).
 Elevator Class with AI Integration: Incorporates Q-learning to make decisions on moving, stopping, and opening doors.
